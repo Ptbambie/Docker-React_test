@@ -13,5 +13,5 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 Clonez ce dépôt sur votre ordinateur en utilisant la commande suivante :
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
-cd votre-repo
+git clone  git@github.com:Ptbambie/Docker-React_test.git
+cd Docker-React_test
